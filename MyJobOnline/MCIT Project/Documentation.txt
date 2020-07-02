@@ -1,0 +1,6 @@
+1.	User login is required to get into Profile.if anyone have not login id that user have to registered first.
+2.	In Profile component, user can add education and multiple Experience  as well as skills.
+
+3.	Clicking the Preview button, user would be able to see the profile preview.
+4.	User can be Employer or recruiter by posting jobs. Jobs will be shown on the home page where authentication is not required. Guest users are authorized to see the job list and details.
+5.	User logout button to use logout from the page. 
